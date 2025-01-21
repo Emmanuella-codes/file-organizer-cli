@@ -1,0 +1,10 @@
+{
+  "customCategories": {
+    "Code": [".go", ".py", ".js"],
+    "Data": [".csv", ".json", ".xml"]
+  },
+  "excludePatterns": [
+    ".git/*",
+    "node_modules/*"
+  ]
+}
